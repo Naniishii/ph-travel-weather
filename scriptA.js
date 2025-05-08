@@ -1,5 +1,5 @@
 const API_KEY = 'sheeesh';
-const BASE_URL = 'https://api.weatherapi.com/v1';
+const BASE_URL = 'naaahhhh';
 
 // Initialize date picker
 function initDatePicker() {
